@@ -1,0 +1,19 @@
+Origin: Pro01 App
+Label: rajassoni
+Codename: bionic
+Date: Sun, 26 Mar 2023 11:22:00 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ aa5953601c8ecf260cf8068e4cb6f10d 806 main/binary-amd64/Packages
+ 2e27ba54ab75025743c1d7ce8049ce27 438 main/binary-amd64/Packages.gz
+ 38a33561465c57ba24db8650ee1dd4e6 104 main/binary-amd64/Release
+SHA1:
+ d55df071b1064c60c4187e84be428886c4778997 806 main/binary-amd64/Packages
+ bb1a2d664a54725a368d8535e3fbf8123eed8f2e 438 main/binary-amd64/Packages.gz
+ 68ae6499112f9fb949c9a84a5125683f7ce0bf91 104 main/binary-amd64/Release
+SHA256:
+ c31823f91be736f5b2963eaa383bd296f0234524bbea61d185d228366e90182d 806 main/binary-amd64/Packages
+ 5854c97ddbb774cebd3c15ae9ecf7642dc8d7a6422dc007491f59e3a0df3d4b4 438 main/binary-amd64/Packages.gz
+ 65cbed61f8ba352fc61c805c5c9fd60ddf74c9531d6ee005eb1b314636282582 104 main/binary-amd64/Release

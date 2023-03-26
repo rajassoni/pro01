@@ -1,0 +1,16 @@
+Package: AvaloniaApplication1
+Architecture: amd64
+Depends: libc6, libgcc1, libgssapi-krb5-2, libstdc++6, zlib1g, libssl1.1 | libssl1.0.2 | libssl1.0.1 | libssl1.0.0 | libssl0.9.8, libicu70 | libicu69 | libicu68 | libicu67 | libicu66 | libicu65 | libicu64 | libicu63 | libicu62 | libicu61 | libicu60 | libicu59 | libicu58 | libicu57 | libicu56 | libicu55 | libicu54 | libicu53 | libicu52
+Priority: extra
+Section: misc
+Filename: pool/main/A/AvaloniaApplication1/AvaloniaApplication1_1.0.0_amd64.deb
+Size: 32663948
+SHA256: c6d6b635c5d2f4b022af1dba62c7e112ed3d7aecb8a02d2e7acb5d69ddc5b3f7
+SHA1: 422d173a397923941366a8e23dd36dfdafabc934
+MD5sum: bb80c367c85587a095ca725283726dbb
+Description: Short Desss 60 chars
+	Long desssdawdasd asd aw 
+Installed-Size: 102833
+Maintainer: AvaloniaApplication1
+Version: 1.0.0
+
