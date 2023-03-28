@@ -1,16 +1,16 @@
 Package: avaapp
-Version: 1.0-0ubuntu1
+Version: 1.1-0ubuntu1
 Architecture: amd64
 Maintainer: ub <ub@unknown>
 Installed-Size: 90044
 Homepage: <insert the upstream URL, if relevant>
 Priority: optional
 Section: misc
-Filename: pool/main/a/avaapp/avaapp_1.0-0ubuntu1_amd64.deb
-Size: 33012426
-SHA256: af790c1dc21bcbb4e6b85ade4c56fdce1850b1343ade5c9d98ae2bae0c231a8c
-SHA1: 5b4b1b4df320df819de28811c8a6281990c9e690
-MD5sum: 1e5ef3f95407fbc948ecd75b60a45493
+Filename: pool/main/a/avaapp/avaapp_1.1-0ubuntu1_amd64.deb
+Size: 33012454
+SHA256: 2d6f87bacfbd4cfe9559ab54556ba7d97526033f01182df1bfaee54262a18e0b
+SHA1: a8f85c081cb0ea1ed4405f6bfc91da90924e78ce
+MD5sum: 65d91d6ad20f92bbb8813d0d8efb0785
 Description: <insert up to 60 chars description>
  <insert long description, indented with spaces>
 
