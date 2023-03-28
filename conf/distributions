@@ -1,7 +1,7 @@
-Origin: Pro01 App
-Label: rajassoni
+Origin: Req Repo
+Label: reqrepo
 Codename: bionic
-Architectures: i386 amd64
+Architectures: i386 amd64 source
 Components: main
 Description: Personal repository
 SignWith: 8B916383D7A23D76

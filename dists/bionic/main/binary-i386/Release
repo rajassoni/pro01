@@ -1,0 +1,5 @@
+Component: main
+Origin: Req Repo
+Label: reqrepo
+Architecture: i386
+Description: Personal repository

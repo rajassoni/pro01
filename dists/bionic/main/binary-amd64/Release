@@ -1,5 +1,5 @@
 Component: main
-Origin: Pro01 App
-Label: rajassoni
+Origin: Req Repo
+Label: reqrepo
 Architecture: amd64
 Description: Personal repository

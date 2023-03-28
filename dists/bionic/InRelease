@@ -1,36 +1,54 @@
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-Origin: Pro01 App
-Label: rajassoni
+Origin: Req Repo
+Label: reqrepo
 Codename: bionic
-Date: Sun, 26 Mar 2023 11:22:00 UTC
-Architectures: amd64
+Date: Tue, 28 Mar 2023 10:51:11 UTC
+Architectures: i386 amd64
 Components: main
 Description: Personal repository
 MD5Sum:
- aa5953601c8ecf260cf8068e4cb6f10d 806 main/binary-amd64/Packages
- 2e27ba54ab75025743c1d7ce8049ce27 438 main/binary-amd64/Packages.gz
- 38a33561465c57ba24db8650ee1dd4e6 104 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 272a54861de9f783cd6c46ea8aa4bee0 100 main/binary-i386/Release
+ b7169c20fce8e33461f8bc21ddc83988 524 main/binary-amd64/Packages
+ a33c5e79cbc36434f39506d39e47c78f 382 main/binary-amd64/Packages.gz
+ 2b6ece4bec2232eb47336ddf154cd8a4 101 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ aff21e6e529e384a3c9dc4ea00cb69df 102 main/source/Release
 SHA1:
- d55df071b1064c60c4187e84be428886c4778997 806 main/binary-amd64/Packages
- bb1a2d664a54725a368d8535e3fbf8123eed8f2e 438 main/binary-amd64/Packages.gz
- 68ae6499112f9fb949c9a84a5125683f7ce0bf91 104 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 0e4f15f427bd986ec7364e2950b129a6c999893d 100 main/binary-i386/Release
+ c688d460d261832a9637e6651ca79e2f5d23db9d 524 main/binary-amd64/Packages
+ 31e26c182639062ca0e8ed843aff79710e557d4f 382 main/binary-amd64/Packages.gz
+ 4b94d0af01bf80a0a0c24f73b8e66156f0ba7957 101 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 0218f42d79a2a8f424feb111ad2b51d12a63d838 102 main/source/Release
 SHA256:
- c31823f91be736f5b2963eaa383bd296f0234524bbea61d185d228366e90182d 806 main/binary-amd64/Packages
- 5854c97ddbb774cebd3c15ae9ecf7642dc8d7a6422dc007491f59e3a0df3d4b4 438 main/binary-amd64/Packages.gz
- 65cbed61f8ba352fc61c805c5c9fd60ddf74c9531d6ee005eb1b314636282582 104 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 98e067703fbcf394d6f3eb2b37ede61e9e4ecdff9707196e31c35de2e467f7eb 100 main/binary-i386/Release
+ 5af89e812f6ce15ee09acf2cbd275c34258b9d0d47580b77940f54cbd146ca28 524 main/binary-amd64/Packages
+ 859a1c85a58967e49eae5c825938946a8dc9e5e7ac75fc27d77a04d7a8817d1b 382 main/binary-amd64/Packages.gz
+ 5606317b8532ea3306869a9280d0d0f9620b8e457dec7b46cbc0a2344d4f60e5 101 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 58733d88c45068a11143ca79aa27ed415d6e57bfbe6514fd0a4c0b2ec4705ae9 102 main/source/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEqy0bFM5Nbs/zDPHvi5Fjg9eiPXYFAmQgKt4ACgkQi5Fjg9ei
-PXaqGQv/WZCzyGtW2jvjWzlSUKGwVTVaUf0xcBFBIZnMBi7i5swqahs6aqPWPBfK
-h+0d+YBSypz7/5s+8f/j9B+JYZ97uUMdGc1EjCfOtC+B6oi6aBeCrtbs3LABYX7K
-53K1SlvyHoH4k21V4nVuzwsDNMLOcfneuyv/6O+96xCVTL1HvsPN1fXQ+bEGLI0N
-jl560hmJ5ssLSXNK5GHqPXOE7vJj5W7Fg+00H/3gpIMmej3/aNVvmnbHuWulj7dz
-Gu7roY9uHO0BdMDZJU9ZZ97t9b9MPuzO/Fh4RiPFO6D+3NU/pc17XjnWWVuMTpOl
-yytQGg9cVrg6SblW92Zygxq2Qv1sjs6JW/DDwtdBMOMN/eeadWpegwXyc0uvY5nl
-glxesowF7WjMd4V6GV3TrYt8XNH0MOx2QNRapwixOt0WpB7oBnuDDQdjdYiSlwrI
-W4Y448YpwkOcI7ParGeW+nkwwsiE4q0N7VAWr3mQZkPagA27Z6GWgFm4vTqkWG9S
-jlm0c9nV
-=d3s9
+iQGzBAEBCgAdFiEEqy0bFM5Nbs/zDPHvi5Fjg9eiPXYFAmQixqMACgkQi5Fjg9ei
+PXZrMQwAvgQzP3WJY/VJVrPH2Iaf6OX7vATq/gMiEVPNzbjFOZ5Q0AqbQoCOP/Da
+xceauMedtGVHkh40KPbJ6yN0DBMuVVzeV5+At+if4Rg+tw0gl+NQsHLrDVr1ntJ0
+wlcwos84axy6Idn1iWNOF7ZfjyDiF5cJo246QntZA0SRKNqf2t5VvjCKq46TtCGa
+F7UINXT2yOLj/H+FO/Ti3A+GZ5xT902+YLWbOyu+EN+kgq8cJ7izCc84qEq01GI0
+UX+5HOAcFnB5u/BVPhMnfvYBQILk/4bJnUauAEU4jW5jhnwjGNA7bAilrapRXhyC
+krtF1cLltw2GpS1CCelkA3esMRWG/acNTkLczPcKhZ0IAr4tJCwBT26IfTibrXKJ
+o4MHd5KS2ax2joONEh+IaYOnYNuveXNr6qtmOeBn50twNhd3M/hTUKzo14Bne5fY
+cmqMbXZkJynU89yFu9XEBN6bLSXlQ9rsl4fPmEBCKDvWheFRuBvKuChoGyS7LxEu
+Ts97SjsR
+=LtIs
 -----END PGP SIGNATURE-----
